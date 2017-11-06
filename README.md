@@ -82,4 +82,15 @@ There are now runs 1...7 so 7 runs not 6. I think in one of the runs the connect
 to find out what the DAC settings and roi settings were. Clear is only: it was no FPA attached and the internal trigger was used.
 
 
+-----
+
+
+20171106
+
+Take 3 runs drs calib as usual.
+
+Then 10 runs with dac values from 0 .. 50000 in steps of 5000
+
+
+
 
