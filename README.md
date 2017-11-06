@@ -90,7 +90,9 @@ to find out what the DAC settings and roi settings were. Clear is only: it was n
 Take 3 runs drs calib as usual.
 
 Then 10 runs with dac values from 0 .. 50000 in steps of 5000
+good runs start with 009.
 
+trigger rate is 40. was 20 on friday, check with FAD header
 
 
 
